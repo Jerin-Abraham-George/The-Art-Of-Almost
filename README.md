@@ -15,16 +15,18 @@ Each piece is an argument between **precision and instinct** — between **contr
 
 ## 🎯 Purpose
 
-- To drop my ink art somewhere other than my sketchbook  
-- To document lines I didn’t erase (because there’s no undo)  
-- To let anyone peek at my “happy accidents”  
+- To drop my ink art somewhere other than my sketchbook.  
+- To document lines I didn’t erase (because there’s no undo). 
+- To let anyone peek at my “happy accidents”.
 
 ---
 
 ## 🌒 Final Note
 
-This is not a collection of finished masterpieces —  
-it is a collection of **attempts**.  
+This is not a collection of finished masterpieces —  it is a collection of **attempts**.  
 
-Because art doesn’t happen in perfection.  
+Because art doesn’t happen in perfection.
+
 It happens in the *almost*.
+
+---
